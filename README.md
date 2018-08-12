@@ -1,2 +1,2 @@
-# reactSamples
+# React Samples
 Sample code
